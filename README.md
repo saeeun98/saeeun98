@@ -1,4 +1,6 @@
-### Hi,I'm @2se._.eun 👋
+### 👋 Hi,I'm Saeuun Lee
+- 성신여자대학교 컴퓨터공학과
+- 한국자산평가 IT운영 (2022.2~ )
 
 <!--
 **saeeun98/saeeun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
