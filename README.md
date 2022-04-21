@@ -1,7 +1,7 @@
 # 👋 Welcome!
 ---------------------------------------------------------------------------------------
 <figure>
-    <img src="https://user-images.githubusercontent.com/96809480/164355200-e31df3ed-55c8-43ca-82ad-ab1d5aeaf8f3.png width="200" heigth="400" />
+    <img src="https://user-images.githubusercontent.com/96809480/164355200-e31df3ed-55c8-43ca-82ad-ab1d5aeaf8f3.png" width="200" heigth="400" />
 </figure>
 
 - 성신여자대학교 컴퓨터공학과
